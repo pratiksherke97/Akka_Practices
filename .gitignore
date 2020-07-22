@@ -1,0 +1,7 @@
+### Java-Web ###
+## ignoring target file
+target/
+
+### Intellij ###
+.idea
+.iml
